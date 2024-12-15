@@ -1,0 +1,2 @@
+# Public_HCA_RustDesk
+HCA_RustDesk是第27屆醫管盃官方遠端協助軟體，此Repo為公眾開放之下載頁面。
