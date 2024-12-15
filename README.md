@@ -19,4 +19,4 @@ HCA_RustDesk是第27屆醫管盃官方遠端協助軟體，此Repo為公眾開�
 ![image](https://github.com/user-attachments/assets/06d5130c-66fb-4ada-8cc0-58a4275abc99)  
 6. 協助過程中，資訊組成員可能會透過即時聊天室窗與您聯繫，請務必注意相關訊息。  
 ![image](https://github.com/user-attachments/assets/ce3a1107-6c15-458f-ab38-9577b8bf74c9)  
-7. 為保障雙方權益，協助過程中資訊組將會全程進行桌面影像錄影。您的桌面在整個協助過程中將會保持隱藏，並將會在結束協助後恢復。
+7. 為保障雙方權益，協助過程中資訊組將會全程進行桌面影像錄影。
