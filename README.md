@@ -1,4 +1,5 @@
-# **HCA_RustDesk 第27屆醫管盃遠端協助軟體**
+![第27屆全國大專院校醫管盃 遠端協助軟體發佈 (1)](https://github.com/user-attachments/assets/1cde8ed4-4b4f-451d-8428-3ca96a140c80)
+___   
 HCA_RustDesk是第27屆醫管盃官方遠端協助軟體，此Repo為公眾開放之下載頁面。
 > 最新版號(發布日期)： v0.1.0-beta.1. (2024/12/15)   
 > 原始Repo： [RustDesk GitHub](https://github.com/rustdesk/rustdesk)  
